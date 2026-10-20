@@ -1,4 +1,4 @@
-# Ocean State Waves Pitching End-Of-Season Statistics
+# Ocean State Waves - Pitching End-Of-Season Statistics
 
 ## Overview
 - Using TrackMan data, this project finds important pitching metrics to assist the coaching staff with end-of-season evaluations.
